@@ -1,0 +1,1 @@
+If your appreciate my work maintaining and supporting pidgin-musictracker, and would like to buy me a beer to say thank you, you can do so by [following this link and clicking the button](http://www.dronecode.org.uk/daybook/2009/01/donations.html) ;-)

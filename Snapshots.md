@@ -1,0 +1,3 @@
+Development snapshots are built automatically after a change is committed to the subversion repository.  Development snapshots can be found for [download here](http://www.dronecode.org.uk/pidgin-musictracker-snapshot/?M=D)
+
+Builds are also requested from these snapshots of .deb packages at [Launchpad](http://launchpad.net/~jon-turney/+archive), and of .rpm packages at [Koji](http://koji.fedoraproject.org/koji/tasks?state=all&owner=jturney&view=tree&method=all&order=-completion_time)
